@@ -1,0 +1,26 @@
+{
+  "id": "5b76da48-c78a-49c7-a8ac-2f7825cac592",
+  "name": "Bookshelf 1.0",
+  "publisher": "KK Company",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ]
+}
